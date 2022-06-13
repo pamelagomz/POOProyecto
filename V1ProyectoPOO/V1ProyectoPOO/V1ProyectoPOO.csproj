@@ -64,11 +64,47 @@
         <Compile Include="UserControls\UC_Buscar.Designer.cs">
           <DependentUpon>UC_Buscar.cs</DependentUpon>
         </Compile>
+        <Compile Include="UserControls\UC_Colecciones.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="UserControls\UC_Colecciones.Designer.cs">
+          <DependentUpon>UC_Colecciones.cs</DependentUpon>
+        </Compile>
+        <Compile Include="UserControls\UC_Ejemplares.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="UserControls\UC_Ejemplares.Designer.cs">
+          <DependentUpon>UC_Ejemplares.cs</DependentUpon>
+        </Compile>
+        <Compile Include="UserControls\UC_Eventos.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="UserControls\UC_Eventos.Designer.cs">
+          <DependentUpon>UC_Eventos.cs</DependentUpon>
+        </Compile>
         <Compile Include="UserControls\UC_Inicio.cs">
           <SubType>UserControl</SubType>
         </Compile>
         <Compile Include="UserControls\UC_Inicio.Designer.cs">
           <DependentUpon>UC_Inicio.cs</DependentUpon>
+        </Compile>
+        <Compile Include="UserControls\UC_Prestamos.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="UserControls\UC_Prestamos.Designer.cs">
+          <DependentUpon>UC_Prestamos.cs</DependentUpon>
+        </Compile>
+        <Compile Include="UserControls\UC_Reservas.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="UserControls\UC_Reservas.Designer.cs">
+          <DependentUpon>UC_Reservas.cs</DependentUpon>
+        </Compile>
+        <Compile Include="UserControls\UC_Usuarios.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="UserControls\UC_Usuarios.Designer.cs">
+          <DependentUpon>UC_Usuarios.cs</DependentUpon>
         </Compile>
         <EmbeddedResource Include="frmBiblioteca.resx">
           <DependentUpon>frmBiblioteca.cs</DependentUpon>
@@ -85,8 +121,26 @@
         <EmbeddedResource Include="UserControls\UC_Buscar.resx">
           <DependentUpon>UC_Buscar.cs</DependentUpon>
         </EmbeddedResource>
+        <EmbeddedResource Include="UserControls\UC_Colecciones.resx">
+          <DependentUpon>UC_Colecciones.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="UserControls\UC_Ejemplares.resx">
+          <DependentUpon>UC_Ejemplares.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="UserControls\UC_Eventos.resx">
+          <DependentUpon>UC_Eventos.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="UserControls\UC_Inicio.resx">
           <DependentUpon>UC_Inicio.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="UserControls\UC_Prestamos.resx">
+          <DependentUpon>UC_Prestamos.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="UserControls\UC_Reservas.resx">
+          <DependentUpon>UC_Reservas.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="UserControls\UC_Usuarios.resx">
+          <DependentUpon>UC_Usuarios.cs</DependentUpon>
         </EmbeddedResource>
         <None Include="packages.config" />
         <None Include="Properties\Settings.settings">

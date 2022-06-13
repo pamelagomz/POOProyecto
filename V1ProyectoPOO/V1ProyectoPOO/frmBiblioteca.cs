@@ -73,31 +73,44 @@ namespace V1ProyectoPOO
         private void btnEventos_Click(object sender, EventArgs e)
         {
             ActivateButton(sender);
+            UC_Eventos uce = new UC_Eventos();
+            addUserControl(uce);
         }
 
         private void btnColecciones_Click(object sender, EventArgs e)
         {
+           
             ActivateButton(sender);
+            UC_Colecciones ucc = new UC_Colecciones();
+            addUserControl(ucc);
         }
 
         private void btnEjemplares_Click(object sender, EventArgs e)
         {
             ActivateButton(sender);
+            UC_Ejemplares ucj = new UC_Ejemplares();
+            addUserControl(ucj);
         }
 
         private void btnUsuarios_Click(object sender, EventArgs e)
         {
             ActivateButton(sender);
+            UC_Usuarios ucs = new UC_Usuarios();
+            addUserControl(ucs);
         }
 
         private void btnPrestamos_Click(object sender, EventArgs e)
         {
             ActivateButton(sender);
+            UC_Prestamos ucp = new UC_Prestamos();
+            addUserControl(ucp);
         }
 
         private void btnReservas_Click(object sender, EventArgs e)
         {
             ActivateButton(sender);
+            UC_Reservas ucr = new UC_Reservas();
+            addUserControl(ucr);
         }
     }
 }

@@ -26,3 +26,9 @@ C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\De
 C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.pdb
 C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.UserControls.UC_Inicio.resources
 C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.UserControls.UC_Buscar.resources
+C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.UserControls.UC_Eventos.resources
+C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.UserControls.UC_Colecciones.resources
+C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.UserControls.UC_Ejemplares.resources
+C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.UserControls.UC_Usuarios.resources
+C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.UserControls.UC_Prestamos.resources
+C:\Users\User\Desktop\ProyectoPoo\POOProyecto\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.UserControls.UC_Reservas.resources
