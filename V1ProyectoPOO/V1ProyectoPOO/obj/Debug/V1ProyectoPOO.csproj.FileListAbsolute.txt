@@ -1,0 +1,13 @@
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\bin\Debug\V1ProyectoPOO.exe.config
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\bin\Debug\V1ProyectoPOO.exe
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\bin\Debug\V1ProyectoPOO.pdb
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.Properties.Resources.resources
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.csproj.GenerateResource.cache
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.exe
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.pdb
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.frmBiblioteca.resources
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\bin\Debug\Guna.UI2.dll
+C:\Users\User\Documents\CICLO1_2022\POO\code\repasoP1\V1ProyectoPOO\V1ProyectoPOO\obj\Debug\V1ProyectoPOO.csproj.CopyComplete
