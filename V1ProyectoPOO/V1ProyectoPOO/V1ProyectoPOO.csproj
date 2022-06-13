@@ -58,6 +58,18 @@
         </Compile>
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="UserControls\UC_Buscar.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="UserControls\UC_Buscar.Designer.cs">
+          <DependentUpon>UC_Buscar.cs</DependentUpon>
+        </Compile>
+        <Compile Include="UserControls\UC_Inicio.cs">
+          <SubType>UserControl</SubType>
+        </Compile>
+        <Compile Include="UserControls\UC_Inicio.Designer.cs">
+          <DependentUpon>UC_Inicio.cs</DependentUpon>
+        </Compile>
         <EmbeddedResource Include="frmBiblioteca.resx">
           <DependentUpon>frmBiblioteca.cs</DependentUpon>
         </EmbeddedResource>
@@ -70,6 +82,12 @@
             <AutoGen>True</AutoGen>
             <DependentUpon>Resources.resx</DependentUpon>
         </Compile>
+        <EmbeddedResource Include="UserControls\UC_Buscar.resx">
+          <DependentUpon>UC_Buscar.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="UserControls\UC_Inicio.resx">
+          <DependentUpon>UC_Inicio.cs</DependentUpon>
+        </EmbeddedResource>
         <None Include="packages.config" />
         <None Include="Properties\Settings.settings">
             <Generator>SettingsSingleFileGenerator</Generator>

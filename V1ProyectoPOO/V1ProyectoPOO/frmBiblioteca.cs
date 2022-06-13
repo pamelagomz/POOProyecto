@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using V1ProyectoPOO.UserControls;
 
 namespace V1ProyectoPOO
 {
@@ -46,15 +47,27 @@ namespace V1ProyectoPOO
             }
         }
 
+        private void addUserControl(UserControl userControl)
+        {
+            pnlDatos.Controls.Clear();
+            pnlDatos.Controls.Add(userControl);
+            userControl.BringToFront();
+        }
+
 
         private void btnInicio_Click(object sender, EventArgs e)
         {
             ActivateButton(sender);
+            UC_Inicio uci = new UC_Inicio();
+            addUserControl(uci);
+
         }
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
             ActivateButton(sender);
+            UC_Buscar ucb = new UC_Buscar();
+            addUserControl(ucb);
         }
 
         private void btnEventos_Click(object sender, EventArgs e)

@@ -31,6 +31,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmBiblioteca));
             this.pnlPrincipal = new System.Windows.Forms.Panel();
+            this.pnlDatos = new System.Windows.Forms.Panel();
             this.pnlTop = new System.Windows.Forms.Panel();
             this.pnlMenu = new System.Windows.Forms.Panel();
             this.tlpMenu = new System.Windows.Forms.TableLayoutPanel();
@@ -52,6 +53,7 @@
             // pnlPrincipal
             // 
             this.pnlPrincipal.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.pnlPrincipal.Controls.Add(this.pnlDatos);
             this.pnlPrincipal.Controls.Add(this.pnlTop);
             this.pnlPrincipal.Controls.Add(this.pnlMenu);
             this.pnlPrincipal.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -59,6 +61,15 @@
             this.pnlPrincipal.Name = "pnlPrincipal";
             this.pnlPrincipal.Size = new System.Drawing.Size(998, 706);
             this.pnlPrincipal.TabIndex = 0;
+            // 
+            // pnlDatos
+            // 
+            this.pnlDatos.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
+            this.pnlDatos.AutoSize = true;
+            this.pnlDatos.Location = new System.Drawing.Point(217, 123);
+            this.pnlDatos.Name = "pnlDatos";
+            this.pnlDatos.Size = new System.Drawing.Size(781, 583);
+            this.pnlDatos.TabIndex = 2;
             // 
             // pnlTop
             // 
@@ -241,6 +252,7 @@
             this.Name = "frmBiblioteca";
             this.Text = "Biblioteca";
             this.pnlPrincipal.ResumeLayout(false);
+            this.pnlPrincipal.PerformLayout();
             this.pnlMenu.ResumeLayout(false);
             this.tlpMenu.ResumeLayout(false);
             this.tlpMenu.PerformLayout();
@@ -264,7 +276,7 @@
 
         private System.Windows.Forms.TableLayoutPanel tlpMenu;
 
-        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel pnlDatos;
 
         private System.Windows.Forms.Panel pnlMenu;
 
