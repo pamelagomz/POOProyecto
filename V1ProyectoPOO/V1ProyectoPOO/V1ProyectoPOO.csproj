@@ -158,5 +158,26 @@
     <ItemGroup>
         <None Include="App.config" />
     </ItemGroup>
+    <ItemGroup>
+      <Content Include="Resources\abelPerezfrase.jpeg" />
+      <Content Include="Resources\areaCompu.jpeg" />
+      <Content Include="Resources\bienvenido.jpeg" />
+      <Content Include="Resources\clasesMusica.jpeg" />
+      <Content Include="Resources\Conia.jpeg" />
+      <Content Include="Resources\conia1.jpeg" />
+      <Content Include="Resources\Conia11.jpeg" />
+      <Content Include="Resources\conia2.jpeg" />
+      <Content Include="Resources\conia3.jpeg" />
+      <Content Include="Resources\conia4.jpeg" />
+      <Content Include="Resources\coniaInfo.jpeg" />
+      <Content Include="Resources\fraseJairo.jpeg" />
+      <Content Include="Resources\harryPotter.jpeg" />
+      <Content Include="Resources\infantil.jpeg" />
+      <Content Include="Resources\losMiserables.jpeg" />
+      <Content Include="Resources\pintura.jpeg" />
+      <Content Include="Resources\senordeAnillos.jpeg" />
+      <Content Include="Resources\_100soledad.jpeg" />
+      <Content Include="Resources\_3__1_.png" />
+    </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

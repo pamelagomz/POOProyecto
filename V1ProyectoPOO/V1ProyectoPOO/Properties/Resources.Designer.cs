@@ -61,12 +61,32 @@ namespace V1ProyectoPOO.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3__1_ {
+            get {
+                object obj = ResourceManager.GetObject("_3__1_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Server=localhost;Database=PROYECTO17;Trusted_Connection=True;
         ///.
         /// </summary>
         internal static string Cadena_Conexion {
             get {
                 return ResourceManager.GetString("Cadena_Conexion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Conia {
+            get {
+                object obj = ResourceManager.GetObject("Conia", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }
